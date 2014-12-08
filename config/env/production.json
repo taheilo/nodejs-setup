@@ -1,0 +1,6 @@
+{
+    "db": "mongodb://localhost/doctr",
+    "app": {
+        "name": "Node Mongo Express base"
+    }
+}
